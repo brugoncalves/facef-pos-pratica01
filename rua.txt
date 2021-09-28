@@ -1,0 +1,5 @@
+Avenida Brasil,
+Rua do Comércio,
+Avenida Rio Negro,
+Rua General Carneiro,
+Avenida Santa Cruz
