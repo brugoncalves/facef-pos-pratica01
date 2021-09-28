@@ -3,3 +3,5 @@ Rua do Comércio,
 Avenida Rio Negro,
 Rua General Carneiro,
 Avenida Santa Cruz
+Rua Saldanha Marinho
+Avenida Presidente Vargas
