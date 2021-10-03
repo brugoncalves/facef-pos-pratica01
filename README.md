@@ -1,2 +1,6 @@
 # pos-facef-fundamentos
-Aula prática
+Exercício da aula prática de Fundamentos das Técnicas e Práticas de Desenvolvimento
+
+
+
+
